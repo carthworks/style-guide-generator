@@ -1,0 +1,26 @@
+{
+    "fonts": [
+      {
+        "name": "Arial",
+        "css": "Arial, sans-serif"
+      },
+      {
+        "name": "Helvetica",
+        "css": "Helvetica, sans-serif"
+      },
+      {
+        "name": "Times New Roman",
+        "css": "'Times New Roman', serif"
+      },
+      {
+        "name": "Georgia",
+        "css": "Georgia, serif"
+      },
+      {
+        "name": "Courier New",
+        "css": "'Courier New', monospace"
+      }
+      
+    ]
+  }
+  
